@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (00_tp2_intro.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\mathe\Desktop\tp2\src\main.cpp(305,20): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(474,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(477,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(481,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(485,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(486,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(487,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(560,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mathe\Desktop\tp2\src\main.cpp(561,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  1 of 1268 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  00_tp1_intro.vcxproj -> C:\Users\mathe\Desktop\tp2\src\x64\Release\World3D.exe

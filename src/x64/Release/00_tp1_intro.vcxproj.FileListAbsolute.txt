@@ -1,0 +1,4 @@
+C:\Users\mathe\Documents\Poly\Infographie\INF2705\tp2\src\x64\Release\glew32.dll
+C:\Users\mathe\Documents\Poly\Infographie\INF2705\tp2\src\x64\Release\00_tp2_intro.exe
+C:\Users\mathe\Desktop\tp2\src\x64\Release\glew32.dll
+C:\Users\mathe\Desktop\tp2\src\x64\Release\World3D.exe
