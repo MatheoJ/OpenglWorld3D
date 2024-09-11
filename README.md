@@ -1,6 +1,6 @@
 # OpenglWorld3D
 
-##Description
+## Description
 This project was made as part of the computer graphic course at Polytechnique Montreal 
 It features:
 - Textured models
